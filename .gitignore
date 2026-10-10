@@ -1,0 +1,7 @@
+﻿__pycache__/
+*.pyc
+*.bak
+chroma_db/
+.venv/
+.env
+models/
